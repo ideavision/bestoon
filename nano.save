@@ -1,0 +1,2 @@
+curl --data "token=1234567&amount=100&text=funny test" http://localhost:8000/submit/expense/
+
